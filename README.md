@@ -64,9 +64,9 @@ Cada grupo deverá criar uma pasta com o nome do projeto e seguir a estrutura su
 
 ## 👨‍🏫 Professor Responsável
 
-- **Nome:** [Seu nome aqui]  
-- **Email:** [Seu email institucional]  
-- **Instituição:** [Nome da instituição]  
+- **Nome:** Antonio Fernando Traina  
+- **Email:** antonio.traina@fatec.sp.gov.br  
+- **Instituição:** Fatec Bebedouro
 
 ---
 
