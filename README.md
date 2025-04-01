@@ -83,5 +83,8 @@ Cada grupo deverá criar uma pasta com o nome do projeto e seguir a estrutura su
 | 16     | Apresentação dos projetos |
 
 ---
+##Trabalho dos alunos
+
+
 
 ## 🚀 Vamos construir soluções inovadoras para o campo! 🌾
