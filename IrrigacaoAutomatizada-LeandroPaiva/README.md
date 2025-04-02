@@ -1,23 +1,22 @@
-# Agricultura Vertical - Sistema Hidropônico Automatizado
+# Irrigação Automatizada para Viveiro de Mudas
 
-🌱 Agricultura Vertical 🌱
+🌱 Irrigação Automatizada 🌱
 
-Sistema automatizado para hidroponia caseira, integrando IoT e sensores avançados para monitoramento e controle eficiente.
+Sistema de irrigação automatizada para viveiros de mudas de essências florestais, utilizando IoT para otimizar o uso de água e melhorar a eficiência produtiva.
 
 
 ---
 
 ## 📖 Descrição do Projeto
-Este projeto oferece uma solução inovadora para o cultivo de plantas em ambientes urbanos limitados, utilizando tecnologia IoT e sensores para monitorar parâmetros críticos como condutividade elétrica (CE), pH, temperatura, umidade e iluminação. Com uma interface intuitiva e automação avançada, o sistema permite a produção de alimentos frescos e saudáveis enquanto otimiza o uso de recursos naturais.
+A implementação de um sistema de irrigação automatizada para viveiros de mudas de essências florestais, utilizando IoT, representa uma solução inovadora e sustentável para os desafios do setor. Além de otimizar o uso de recursos hídricos, o projeto contribui para a melhoria da produtividade e a redução de custos, fortalecendo a competitividade do agronegócio florestal.
 
 ---
 
-## 🚀 Funcionalidades
-- **Monitoramento em tempo real**: Sensores precisos para CE, pH, temperatura, umidade e iluminação.
-- **Automação inteligente**: Controle automático de irrigação e iluminação com base nos dados coletados.
-- **Interface IoT**: Visualização remota dos dados via aplicativo ou plataforma web.
-- **Estrutura modular**: Design compacto e escalável para diferentes espaços urbanos.
-- **Sustentabilidade**: Redução do consumo de água em até 90% comparado à agricultura convencional.
+## 🚀 Objetivos Específicos
+- Implementar sensores de umidade do solo e clima.
+- Desenvolver um sistema de controle remoto para a irrigação.
+- Reduzir o desperdício de água em pelo menos 30%.
+- Aumentar a taxa de sobrevivência das mudas em 20%.
 
 
-🌟 Cultive o futuro com tecnologia! 🌟
+🌟 Sustentabilidade e economia na produção de mudas protegidas. 🌟
