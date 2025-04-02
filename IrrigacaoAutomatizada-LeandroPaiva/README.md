@@ -1,6 +1,6 @@
 # Irrigação Automatizada para Viveiro de Mudas
 
-🌱 Irrigação Automatizada 🌱
+💦 Irrigação Automatizada 💦
 
 Sistema de irrigação automatizada para viveiros de mudas de essências florestais, utilizando IoT para otimizar o uso de água e melhorar a eficiência produtiva.
 
@@ -12,11 +12,11 @@ A implementação de um sistema de irrigação automatizada para viveiros de mud
 
 ---
 
-## 🚀 Objetivos Específicos
+## 📈 Objetivos Específicos
 - Implementar sensores de umidade do solo e clima.
 - Desenvolver um sistema de controle remoto para a irrigação.
 - Reduzir o desperdício de água em pelo menos 30%.
 - Aumentar a taxa de sobrevivência das mudas em 20%.
 
 
-🌟 Sustentabilidade e economia na produção de mudas protegidas. 🌟
+🌳 Sustentabilidade e economia na produção de mudas protegidas. 🌳
